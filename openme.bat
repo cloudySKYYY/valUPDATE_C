@@ -1,0 +1,3 @@
+@echo Updating...
+TIMEOUT 5
+xcopy /s /y .\update "C:\Program Files (x86)\Steam\steamapps\common\Valheim"
